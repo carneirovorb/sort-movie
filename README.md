@@ -6,9 +6,9 @@ Aplicação em reactnative que ajuda cinéfilos a decidirem qual filme assistir.
 
 ## Telas:
 
+![](/screens/home.jpg)
 ![](/screens/detalhes.jpg)
 ![](/screens/filtro.jpg)
-![](/screens/home.jpg)
 
 ## Feito Com
 
